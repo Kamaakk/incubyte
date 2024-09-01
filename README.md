@@ -21,20 +21,7 @@ Set borrowing limits and overdue fees
 Track book circulation statistics
 
 Reporting:
-Generate reports on book usage, overdue fines, and popular genres
-
-library-management-system/
-├── src/main/java/com/example/library/
-│   ├── Book.java
-│   ├── User.java
-│   ├── LibraryService.java
-│   └── LibraryApplication.java
-├── src/main/resources/
-│   └── application.properties
-├── src/test/java/com/example/library/
-│   └── LibraryServiceTest.java
-├── README.md
-├── .gitignore
+Generate reports on book usage, overdue fines, and popular genres.
 
 Development Process:
 
